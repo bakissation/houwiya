@@ -18,3 +18,4 @@ export {
 } from './ccp.js';
 export { parseIban, isValidIban, type IbanParsed } from './iban.js';
 export { parseCnasEmployer, isValidCnasEmployer, type CnasEmployerParsed } from './cnas.js';
+export { formatRib, formatIban } from './format.js';
