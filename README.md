@@ -4,7 +4,7 @@
 
 [![npm](https://img.shields.io/npm/v/@bakissation/houwiya?label=npm&color=cb3837)](https://www.npmjs.com/package/@bakissation/houwiya)
 [![CI](https://github.com/bakissation/houwiya/actions/workflows/ci.yml/badge.svg)](https://github.com/bakissation/houwiya/actions/workflows/ci.yml)
-[![license](https://img.shields.io/npm/l/@bakissation/houwiya?color=blue)](./LICENSE)
+[![license](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
 - 🔎 **Parse, don't just validate** — every `parse*` returns a typed object you can read one field from.
 - ✅ **Real checksums** — NIN (Luhn), RIB / CCP / IBAN (mod-97). Structural validation for the rest.
